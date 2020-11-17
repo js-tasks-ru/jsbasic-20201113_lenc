@@ -1,10 +1,5 @@
-/**
- * sum
- * @param {number} m
- * @param {number} n
- * @returns {number}
- */
-function sum(m, n) {
 
+
+function sum(m, n) {
    alert(n+m);
 }
